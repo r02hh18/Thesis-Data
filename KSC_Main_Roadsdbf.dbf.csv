@@ -1,0 +1,107 @@
+FID,LOCATION,WIDTH,LANE,SPEED,LENGTH,ROAD CLASS,ROAD TYPE,DIRECTION,AREA ID,CATEGORY
+0,KSC,20,2,60,2791,Major,Harvesting,Two Ways,Area 2,Semi Paved
+1,KSC,20,2,60,1009,Major,Harvesting,Two Ways,Area 2,Semi Paved
+2,KSC,20,2,60,6116,Major,Harvesting,Two Ways,Area 2,Unpaved
+3,KSC,20,2,60,6278,Major,Harvesting,Two Ways,Area 2,Unpaved
+4,KSC,20,2,60,6071,Major,Harvesting,Two Ways,Area 2,Unpaved
+5,KSC,20,2,60,4286,Major,Harvesting,Two Ways,Area 2,Unpaved
+6,KSC,20,2,60,7749,Major,Harvesting,Two Ways,Area 2,Unpaved
+7,KSC,20,2,60,2761,Major,Harvesting,Two Ways,Area 2,Semi Paved
+8,KSC,20,2,60,5890,Major,Harvesting,Two Ways,Area 2,Semi Paved
+9,KSC,20,2,60,5099,Major,Harvesting,Two Ways,Area 2,Unpaved
+10,KSC,20,2,60,3462,Major,Harvesting,Two Ways,Area 2,Unpaved
+11,KSC,20,2,60,10935,Major,Harvesting,Two Ways,Area 2,Paved
+12,KSC,20,2,60,12811,Major,Harvesting,Two Ways,Area 2,Semi Paved
+13,KSC,20,2,60,2985,Major,Harvesting,Two Ways,Area 2,Paved
+14,KSC,20,2,60,5042,Major,Harvesting,Two Ways,Area 2,Unpaved
+15,KSC,20,2,60,1086,Major,Harvesting,Two Ways,Area 1,Semi Paved
+16,KSC,20,2,60,2804,Major,Harvesting,Two Ways,Area 2,Unpaved
+17,KSC,20,2,60,1623,Major,Harvesting,Two Ways,Area 2,Unpaved
+18,KSC,20,2,60,5620,Major,Harvesting,Two Ways,Area 2,Semi Paved
+19,KSC,20,2,60,2956,Major,Harvesting,Two Ways,Area 2,Semi Paved
+20,KSC,20,2,60,12327,Major,Harvesting,Two Ways,Area 2,Paved
+21,KSC,20,2,60,2266,Major,Harvesting,Two Ways,Area 2,Semi Paved
+22,KSC,20,2,60,1742,Major,Harvesting,Two Ways,Area 2,Semi Paved
+23,KSC,20,2,60,982,Major,Harvesting,Two Ways,Area 2,Semi Paved
+24,KSC,20,2,60,1071,Major,Harvesting,Two Ways,Area 2,Semi Paved
+25,KSC,20,2,60,1548,Major,Harvesting,Two Ways,Area 2,Semi Paved
+26,KSC,20,2,60,2078,Major,Harvesting,Two Ways,Area 2,Semi Paved
+27,KSC,20,2,60,3116,Major,Harvesting,Two Ways,Area 2,Semi Paved
+28,KSC,20,2,60,8698,Major,Harvesting,Two Ways,Area 2,Semi Paved
+29,KSC,20,2,60,4959,Major,Harvesting,Two Ways,Area 2,Semi Paved
+30,KSC,20,2,60,1940,Major,Harvesting,Two Ways,Area 2,Semi Paved
+31,KSC,20,2,60,1193,Major,Harvesting,Two Ways,Area 2,Semi Paved
+32,KSC,20,2,60,18614,Major,Harvesting,Two Ways,Area 6,Semi Paved
+33,KSC,20,2,60,20592,Major,Harvesting,Two Ways,Area 6,Paved
+34,KSC,20,2,60,12280,Major,Harvesting,Two Ways,Area 6,Semi Paved
+35,KSC,20,2,60,13484,Major,Harvesting,Two Ways,Area 6,Semi Paved
+36,KSC,20,2,60,16775,Major,Harvesting,Two Ways,Area 5,Semi Paved
+37,KSC,20,2,60,9813,Major,Harvesting,Two Ways,Area 6,Unpaved
+38,KSC,20,2,60,17674,Major,Harvesting,Two Ways,Area 1,Unpaved
+39,KSC,20,2,60,11340,Major,Harvesting,Two Ways,Area 1,Unpaved
+40,KSC,20,2,60,8718,Major,Harvesting,Two Ways,Area 1,Semi Paved
+41,KSC,20,2,60,1345,Major,Harvesting,Two Ways,Area 1,Semi Paved
+42,KSC,20,2,60,7304,Major,Harvesting,Two Ways,Area 1,Unpaved
+43,KSC,20,2,60,8523,Major,Harvesting,Two Ways,Area 1,Unpaved
+44,KSC,20,2,60,961,Major,Harvesting,Two Ways,Area 1,Semi Paved
+45,KSC,20,2,60,7869,Major,Harvesting,Two Ways,Area 1,Unpaved
+46,KSC,20,2,60,5785,Major,Harvesting,Two Ways,Area 1,Unpaved
+47,KSC,20,2,60,28886,Major,Harvesting,Two Ways,Area 5,Unpaved
+48,KSC,20,2,60,25028,Major,Harvesting,Two Ways,Area 5,Unpaved
+49,KSC,20,2,60,25576,Major,Harvesting,Two Ways,Area 3,Semi Paved
+50,KSC,20,2,60,16534,Major,Harvesting,Two Ways,Area 3,Semi Paved
+51,KSC,20,2,60,9430,Major,Harvesting,Two Ways,Area 3,Unpaved
+52,KSC,20,2,60,8473,Major,Harvesting,Two Ways,Area 3,Unpaved
+53,KSC,20,2,60,5337,Major,Harvesting,Two Ways,Area 3,Unpaved
+54,KSC,20,2,60,8631,Major,Harvesting,Two Ways,Area 3,Semi Paved
+55,KSC,20,2,60,2182,Major,Harvesting,Two Ways,Area 3,Semi Paved
+56,KSC,20,2,60,23195,Major,Harvesting,Two Ways,Area 4,Semi Paved
+57,KSC,20,2,60,5623,Major,Harvesting,Two Ways,Area 6,Semi Paved
+58,KSC,20,2,60,3195,Major,Harvesting,Two Ways,Area 6,Unpaved
+59,KSC,20,2,60,4668,Major,Harvesting,Two Ways,Area 5,Unpaved
+60,KSC,20,2,60,16724,Major,Harvesting,Two Ways,Area 5,Semi Paved
+61,KSC,20,2,60,5453,Major,Harvesting,Two Ways,Area 4,Unpaved
+62,KSC,20,2,60,1672,Major,Harvesting,Two Ways,Area 5,Unpaved
+63,KSC,20,2,60,4945,Major,Harvesting,Two Ways,Area 4,Unpaved
+64,KSC,20,2,60,1855,Major,Harvesting,Two Ways,Area 1,Semi Paved
+65,KSC,20,2,60,2886,Major,Harvesting,Two Ways,Area 1,Semi Paved
+66,KSC,20,2,60,3338,Major,Harvesting,Two Ways,Area 5,Semi Paved
+67,KSC,20,2,60,2830,Major,Harvesting,Two Ways,Area 4,Semi Paved
+68,KSC,20,2,60,2570,Major,Harvesting,Two Ways,Area 4,Semi Paved
+69,KSC,20,2,60,2302,Major,Harvesting,Two Ways,Area 3,Semi Paved
+70,KSC,20,2,60,4342,Major,Harvesting,Two Ways,Area 4,Semi Paved
+71,KSC,20,2,60,2533,Major,Harvesting,Two Ways,Area 3,Semi Paved
+72,KSC,20,2,60,2483,Major,Harvesting,Two Ways,Area 3,Unpaved
+73,KSC,20,2,60,3368,Major,Harvesting,Two Ways,Area 4,Unpaved
+74,KSC,20,2,60,3626,Major,Harvesting,Two Ways,Area 4,Unpaved
+75,KSC,20,2,60,4193,Major,Harvesting,Two Ways,Area 1,Semi Paved
+76,KSC,20,2,60,4815,Major,Harvesting,Two Ways,Area 6,Unpaved
+77,KSC,20,2,60,249,Major,Harvesting,Two Ways,Area 5,Unpaved
+78,KSC,20,2,60,3043,Major,Harvesting,Two Ways,Area 5,Unpaved
+79,KSC,20,2,60,1988,Major,Harvesting,Two Ways,Area 5,Unpaved
+80,KSC,20,2,60,1021,Major,Harvesting,Two Ways,Area 5,Unpaved
+81,KSC,20,2,60,1476,Major,Harvesting,Two Ways,Area 2,Paved
+82,KSC,20,2,60,3733,Major,Harvesting,Two Ways,Area 3,Semi Paved
+83,KSC,20,2,60,719,Major,Harvesting,Two Ways,Area 3,Semi Paved
+84,KSC,20,2,60,917,Major,Harvesting,Two Ways,Area 3,Semi Paved
+85,KSC,20,2,60,5994,Major,Harvesting,Two Ways,Area 3,Unpaved
+86,KSC,20,2,60,10356,Major,Harvesting,Two Ways,Area 7,Semi Paved
+87,KSC,20,2,60,4144,Major,Harvesting,Two Ways,Area 7,Semi Paved
+88,KSC,20,2,60,6848,Major,Harvesting,Two Ways,Area 7,Semi Paved
+89,KSC,20,2,60,73,Major,Harvesting,Two Ways,Area 7,Unpaved
+90,KSC,20,2,60,7289,Major,Harvesting,Two Ways,Area 7,Unpaved
+91,KSC,20,2,60,7164,Major,Harvesting,Two Ways,Area 7,Unpaved
+92,KSC,20,2,60,5526,Major,Harvesting,Two Ways,Area 7,Unpaved
+93,KSC,20,2,60,4605,Major,Harvesting,Two Ways,Area 7,Unpaved
+94,KSC,20,2,60,3368,Major,Harvesting,Two Ways,Area 7,Unpaved
+95,KSC,20,2,60,803,Major,Harvesting,Two Ways,Area 7,Semi Paved
+96,KSC,20,2,60,1163,Major,Harvesting,Two Ways,Area 7,Semi Paved
+97,KSC,20,2,60,679,Major,Harvesting,Two Ways,Area 7,Unpaved
+98,KSC,20,2,60,1087,Major,Harvesting,Two Ways,Area 7,Unpaved
+99,KSC,20,2,60,991,Major,Harvesting,Two Ways,Area 7,Unpaved
+100,KSC,20,2,60,1569,Major,Harvesting,Two Ways,Area 7,Semi Paved
+101,KSC,20,2,60,858,Major,Harvesting,Two Ways,Area 7,Unpaved
+102,KSC,20,2,60,1576,Major,Harvesting,Two Ways,Area 7,Semi Paved
+103,KSC,20,2,60,5368,Major,Harvesting,Two Ways,Area 7,Semi Paved
+104,KSC,20,2,60,1936,Major,Harvesting,Two Ways,Area 7,Semi Paved
+105,KSC,20,2,60,835,Major,Harvesting,Two Ways,Area 7,Unpaved
