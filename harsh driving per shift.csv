@@ -1,0 +1,885 @@
+Morning,,,,,,,,,
+FID,Object,Date,Time,Violation Type,Drivers Name,Driving Shift,No of Satellite,X,Y
+0,1696,05/04/2022,10:00:16,Harsh Acceleration,Yosri Mohammed,Morning Shift,3,13.138237,32.965103
+1,1696,05/04/2022,11:31:26,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.118098,32.958827
+2,1696,05/04/2022,11:31:26,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.118098,32.958827
+3,1687,05/04/2022,09:48:53,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,17,13.181733,33.038793
+4,1687,05/04/2022,09:48:53,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,17,13.181733,33.038793
+5,1687,05/04/2022,09:48:54,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,16,13.181665,33.038702
+6,1687,05/04/2022,09:48:54,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,16,13.181665,33.038702
+7,1687,05/04/2022,09:49:02,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,18,13.181103,33.037935
+8,1687,05/04/2022,09:49:02,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,18,13.181103,33.037935
+9,1687,05/04/2022,09:49:03,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,18,13.181033,33.037857
+10,1687,05/04/2022,09:49:03,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,18,13.181033,33.037857
+11,1696,06/04/2022,06:04:10,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.083065,32.935367
+12,1696,06/04/2022,06:04:10,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.083065,32.935367
+13,1696,09/04/2022,07:16:00,Harsh Acceleration,Yosri Mohammed,Morning Shift,7,13.128272,32.979250
+14,1696,09/04/2022,07:16:00,Harsh Acceleration,Yosri Mohammed,Morning Shift,7,13.128272,32.979250
+15,1696,09/04/2022,07:16:07,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.128102,32.980075
+16,1696,09/04/2022,07:16:07,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.128102,32.980075
+17,1696,09/04/2022,07:16:07,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.128102,32.980075
+18,1696,09/04/2022,07:16:07,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.128102,32.980075
+19,1696,09/04/2022,07:16:10,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128072,32.980232
+20,1696,09/04/2022,07:16:10,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128072,32.980232
+21,1696,09/04/2022,07:16:10,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128072,32.980232
+22,1696,09/04/2022,07:16:10,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128072,32.980232
+23,1696,09/04/2022,07:16:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128098,32.980842
+24,1696,09/04/2022,07:16:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128098,32.980842
+25,1696,09/04/2022,07:16:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128098,32.980842
+26,1696,09/04/2022,07:16:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.128098,32.980842
+27,1696,09/04/2022,07:17:16,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+28,1696,09/04/2022,07:17:16,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+29,1696,09/04/2022,07:17:16,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+30,1696,09/04/2022,07:17:21,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+31,1696,09/04/2022,07:17:21,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+32,1696,09/04/2022,07:17:21,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+33,1696,09/04/2022,07:17:21,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+34,1696,09/04/2022,07:17:21,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+35,1696,09/04/2022,07:17:21,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+36,1696,09/04/2022,07:17:22,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+37,1696,09/04/2022,07:17:22,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+38,1696,09/04/2022,07:17:22,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+39,1696,09/04/2022,07:17:22,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+40,1696,09/04/2022,07:17:22,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+41,1696,09/04/2022,07:17:22,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+42,1696,09/04/2022,07:17:28,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+43,1696,09/04/2022,07:17:28,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+44,1696,09/04/2022,07:17:28,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+45,1696,09/04/2022,07:17:28,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+46,1696,09/04/2022,07:17:28,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+47,1696,09/04/2022,07:17:28,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+48,1696,09/04/2022,09:32:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.098038,32.940523
+49,1696,09/04/2022,09:32:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.098038,32.940523
+50,1696,09/04/2022,09:36:13,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.078758,32.931128
+51,1696,09/04/2022,09:36:13,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.078758,32.931128
+52,1696,09/04/2022,10:37:24,Harsh Acceleration,Yosri Mohammed,Morning Shift,7,13.169008,33.038967
+53,1696,09/04/2022,12:03:53,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.146432,32.992743
+54,1696,09/04/2022,12:04:02,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.145992,32.991458
+55,1696,09/04/2022,12:04:02,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.145992,32.991458
+56,1696,09/04/2022,12:04:17,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.145007,32.989983
+57,1696,09/04/2022,12:04:17,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.145007,32.989983
+58,1696,09/04/2022,12:07:00,Harsh Acceleration,Yosri Mohammed,Morning Shift,7,13.141488,32.973835
+59,1696,09/04/2022,12:07:00,Harsh Acceleration,Yosri Mohammed,Morning Shift,7,13.141488,32.973835
+60,1696,09/04/2022,12:20:23,Harsh Acceleration,Yosri Mohammed,Morning Shift,8,13.075502,32.932732
+61,1696,09/04/2022,12:20:23,Harsh Acceleration,Yosri Mohammed,Morning Shift,8,13.075502,32.932732
+62,1683,09/04/2022,10:15:37,Harsh Acceleration,Elmahi Hussain,Morning Shift,17,13.133442,33.033565
+63,1683,09/04/2022,10:29:27,Harsh Acceleration,Elmahi Hussain,Morning Shift,15,13.118337,33.082185
+64,1696,10/04/2022,06:28:32,Harsh Acceleration,Yosri Mohammed,Morning Shift,6,13.157277,33.039840
+65,1687,10/04/2022,09:47:49,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,17,13.129448,32.985390
+66,1687,10/04/2022,09:48:15,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,17,13.132062,32.986672
+67,1687,10/04/2022,09:48:15,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,17,13.132062,32.986672
+68,1696,11/04/2022,09:51:05,Harsh Acceleration,Yosri Mohammed,Morning Shift,9,13.140523,32.970985
+69,1696,11/04/2022,09:51:25,Harsh Acceleration,Yosri Mohammed,Morning Shift,8,13.138292,32.969922
+70,1696,11/04/2022,09:51:25,Harsh Acceleration,Yosri Mohammed,Morning Shift,8,13.138292,32.969922
+71,1696,11/04/2022,10:31:12,Harsh Acceleration,Yosri Mohammed,Morning Shift,10,13.091072,32.940798
+72,1696,11/04/2022,10:31:12,Harsh Acceleration,Yosri Mohammed,Morning Shift,10,13.091072,32.940798
+73,1696,11/04/2022,10:35:07,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.117923,32.963565
+74,1696,11/04/2022,10:35:07,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.117923,32.963565
+75,1696,11/04/2022,12:51:06,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.110563,32.962155
+76,1696,11/04/2022,12:51:06,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.110563,32.962155
+77,1696,12/04/2022,06:54:51,Harsh Acceleration,Yosri Mohammed,Morning Shift,10,13.151492,33.005897
+78,1696,12/04/2022,06:55:03,Harsh Acceleration,Yosri Mohammed,Morning Shift,11,13.152647,33.007172
+79,1696,12/04/2022,06:55:03,Harsh Acceleration,Yosri Mohammed,Morning Shift,11,13.152647,33.007172
+80,1696,12/04/2022,07:01:05,Harsh Acceleration,Yosri Mohammed,Morning Shift,9,13.170632,33.044067
+81,1696,12/04/2022,11:19:18,Harsh Acceleration,Yosri Mohammed,Morning Shift,6,13.124667,33.012478
+82,1696,12/04/2022,11:19:34,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.124720,33.014367
+83,1696,12/04/2022,11:19:34,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.124720,33.014367
+84,1696,12/04/2022,11:19:41,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.123925,33.016868
+85,1696,12/04/2022,11:19:41,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.123925,33.016868
+86,1696,12/04/2022,11:22:09,Harsh Acceleration,Yosri Mohammed,Morning Shift,7,13.132920,33.031300
+87,1696,12/04/2022,12:20:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.124907,33.013337
+88,1696,12/04/2022,12:20:34,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.124885,33.010992
+89,1696,12/04/2022,12:20:34,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.124885,33.010992
+90,1696,12/04/2022,12:20:53,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.125747,33.008903
+91,1696,12/04/2022,12:20:53,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.125747,33.008903
+92,1696,12/04/2022,12:21:18,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.127270,33.005283
+93,1696,12/04/2022,12:21:18,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.127270,33.005283
+94,1696,12/04/2022,12:23:09,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.134443,32.995485
+95,1696,12/04/2022,12:23:09,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.134443,32.995485
+96,1696,12/04/2022,12:23:56,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134127,32.988800
+97,1696,12/04/2022,12:23:56,Harsh Acceleration,Yosri Mohammed,Morning Shift,4,13.134127,32.988800
+98,1696,12/04/2022,12:24:12,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.133098,32.987490
+99,1696,12/04/2022,12:24:12,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.133098,32.987490
+100,1696,12/04/2022,12:24:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,6,13.132817,32.987342
+101,1696,12/04/2022,12:24:15,Harsh Acceleration,Yosri Mohammed,Morning Shift,6,13.132817,32.987342
+102,1696,12/04/2022,12:37:17,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.077395,32.932048
+103,1696,12/04/2022,12:37:17,Harsh Acceleration,Yosri Mohammed,Morning Shift,5,13.077395,32.932048
+104,1687,12/04/2022,10:33:19,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,18,13.069252,32.936367
+105,1687,12/04/2022,10:33:19,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,18,13.069252,32.936367
+106,1687,13/04/2022,07:55:12,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,19,13.107142,32.953335
+107,1687,13/04/2022,07:55:12,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,19,13.107142,32.953335
+108,1687,13/04/2022,12:12:21,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,13,13.178560,32.957022
+109,1687,13/04/2022,12:12:26,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,13,13.178883,32.957425
+110,1687,13/04/2022,12:12:26,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,13,13.178883,32.957425
+111,1683,13/04/2022,11:40:25,Harsh Acceleration,Elmahi Hussain,Morning Shift,15,13.162340,32.976943
+112,1696,13/04/2022,08:38:01,Harsh Acceleration,Yosri Mohammed,Morning Shift,8,13.087487,32.939872
+113,1696,13/04/2022,08:38:01,Harsh Acceleration,Yosri Mohammed,Morning Shift,8,13.087487,32.939872
+114,1687,14/04/2022,11:10:18,Harsh Acceleration,Mohmmed Abd Alkarim,Morning Shift,16,13.181058,32.963680
+115,1696,14/04/2022,10:54:40,Harsh Acceleration,Yosri Mohammed,Morning Shift,17,13.158478,32.946160
+116,1696,14/04/2022,10:55:17,Harsh Acceleration,Yosri Mohammed,Morning Shift,18,13.160280,32.945845
+117,1696,14/04/2022,10:55:17,Harsh Acceleration,Yosri Mohammed,Morning Shift,18,13.160280,32.945845
+118,1687,16/04/2022,13:22:22,Harsh Acceleration,Wali Elden Abdalla,Morning Shift,16,13.100272,32.942007
+119,1687,16/04/2022,13:22:22,Harsh Acceleration,Wali Elden Abdalla,Morning Shift,16,13.100272,32.942007
+120,1692,18/04/2022,08:55:37,Harsh Acceleration,Ahmed Elhaj,Morning Shift,18,13.153160,33.007643
+121,1692,18/04/2022,09:07:27,Harsh Acceleration,Ahmed Elhaj,Morning Shift,18,13.084410,32.938972
+122,1687,21/04/2022,10:02:08,Harsh Acceleration,Wali Elden Abdalla,Morning Shift,16,13.083223,32.937843
+123,1687,21/04/2022,10:02:08,Harsh Acceleration,Wali Elden Abdalla,Morning Shift,16,13.083223,32.937843
+124,1696,05/04/2022,11:25:58,Harsh Braking,Yosri Mohammed,Morning Shift,3,13.142738,32.978378
+125,1696,05/04/2022,11:31:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118490,32.958773
+126,1696,05/04/2022,11:31:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118490,32.958773
+127,1696,05/04/2022,11:31:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118490,32.958773
+128,1696,05/04/2022,11:31:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118490,32.958773
+129,1696,05/04/2022,11:31:23,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118448,32.958792
+130,1696,05/04/2022,11:31:23,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118448,32.958792
+131,1696,05/04/2022,11:31:23,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118448,32.958792
+132,1696,05/04/2022,11:31:23,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.118448,32.958792
+133,1696,05/04/2022,11:36:04,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.094978,32.941428
+134,1696,05/04/2022,11:36:04,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.094978,32.941428
+135,1687,05/04/2022,09:48:53,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,17,13.181733,33.038793
+136,1687,05/04/2022,09:48:53,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,17,13.181733,33.038793
+137,1687,05/04/2022,09:48:54,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.181665,33.038702
+138,1687,05/04/2022,09:48:54,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.181665,33.038702
+139,1687,05/04/2022,09:49:02,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,18,13.181103,33.037935
+140,1687,05/04/2022,09:49:02,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,18,13.181103,33.037935
+141,1687,05/04/2022,09:49:03,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,18,13.181033,33.037857
+142,1687,05/04/2022,09:49:03,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,18,13.181033,33.037857
+143,1687,05/04/2022,10:05:13,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,19,13.130592,32.966955
+144,1687,05/04/2022,10:05:13,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,19,13.130592,32.966955
+145,1687,06/04/2022,13:35:18,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.142262,32.981388
+146,1687,06/04/2022,13:35:29,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.142382,32.980017
+147,1687,06/04/2022,13:35:29,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.142382,32.980017
+148,1696,06/04/2022,06:01:18,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.098362,32.940867
+149,1696,06/04/2022,06:01:18,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.098362,32.940867
+150,1696,06/04/2022,06:01:29,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.097120,32.940760
+151,1696,06/04/2022,06:01:29,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.097120,32.940760
+152,1696,06/04/2022,13:31:00,Harsh Braking,Yosri Mohammed,Morning Shift,9,13.071328,32.931463
+153,1696,06/04/2022,13:31:14,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.071335,32.932965
+154,1696,06/04/2022,13:31:14,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.071335,32.932965
+155,1687,07/04/2022,12:17:49,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.152318,32.973148
+156,1687,07/04/2022,12:18:01,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.151237,32.972098
+157,1687,07/04/2022,12:18:01,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.151237,32.972098
+158,1691,07/04/2022,11:20:03,Harsh Braking,Musa Mudawi,Morning Shift,16,13.076020,32.932807
+159,1691,07/04/2022,11:20:03,Harsh Braking,Musa Mudawi,Morning Shift,16,13.076020,32.932807
+160,1696,07/04/2022,08:52:06,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.182302,33.039217
+161,1696,07/04/2022,08:52:06,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.182302,33.039217
+162,1696,07/04/2022,08:52:06,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.182302,33.039217
+163,1696,07/04/2022,08:52:06,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.182302,33.039217
+164,1696,07/04/2022,08:52:06,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.182302,33.039217
+165,1696,07/04/2022,08:52:06,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.182302,33.039217
+166,1696,07/04/2022,08:52:20,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.181155,33.038147
+167,1696,07/04/2022,08:52:20,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.181155,33.038147
+168,1696,07/04/2022,08:52:20,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.181155,33.038147
+169,1696,07/04/2022,08:52:20,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.181155,33.038147
+170,1696,07/04/2022,08:52:20,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.181155,33.038147
+171,1696,07/04/2022,08:52:20,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.181155,33.038147
+172,1696,07/04/2022,08:52:22,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.181047,33.037910
+173,1696,07/04/2022,08:52:22,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.181047,33.037910
+174,1696,07/04/2022,08:52:22,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.181047,33.037910
+175,1696,07/04/2022,08:52:22,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.181047,33.037910
+176,1696,07/04/2022,08:52:22,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.181047,33.037910
+177,1696,07/04/2022,08:52:22,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.181047,33.037910
+178,1696,07/04/2022,08:53:23,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.175292,33.031187
+179,1696,07/04/2022,08:56:37,Harsh Braking,Yosri Mohammed,Morning Shift,0,13.165497,33.021468
+180,1696,07/04/2022,08:56:37,Harsh Braking,Yosri Mohammed,Morning Shift,0,13.165497,33.021468
+181,1696,07/04/2022,09:00:54,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.152558,33.009722
+182,1696,07/04/2022,09:01:03,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.152103,33.009727
+183,1696,07/04/2022,09:01:09,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.151327,33.009810
+184,1696,07/04/2022,09:01:15,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.151122,33.009907
+185,1696,07/04/2022,09:01:15,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.151122,33.009907
+186,1696,07/04/2022,11:50:23,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.100377,32.923422
+187,1696,07/04/2022,11:50:23,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.100377,32.923422
+188,1694,07/04/2022,11:48:04,Harsh Braking,Ibrahim Abaker,Morning Shift,14,13.145927,33.018142
+189,1694,07/04/2022,11:48:19,Harsh Braking,Ibrahim Abaker,Morning Shift,15,13.147078,33.019203
+190,1694,07/04/2022,11:48:19,Harsh Braking,Ibrahim Abaker,Morning Shift,15,13.147078,33.019203
+191,1694,07/04/2022,13:25:46,Harsh Braking,Ibrahim Abaker,Morning Shift,14,13.144072,33.009070
+192,1696,09/04/2022,07:16:00,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.128272,32.979250
+193,1696,09/04/2022,07:16:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.128102,32.980075
+194,1696,09/04/2022,07:16:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.128102,32.980075
+195,1696,09/04/2022,07:16:10,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.128072,32.980232
+196,1696,09/04/2022,07:16:10,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.128072,32.980232
+197,1696,09/04/2022,07:16:15,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.128098,32.980842
+198,1696,09/04/2022,07:16:15,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.128098,32.980842
+199,1696,09/04/2022,07:17:16,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+200,1696,09/04/2022,07:17:16,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+201,1696,09/04/2022,07:17:16,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+202,1696,09/04/2022,07:17:16,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+203,1696,09/04/2022,07:17:16,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.133568,32.987787
+204,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+205,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+206,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+207,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+208,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+209,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+210,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+211,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+212,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+213,1696,09/04/2022,07:17:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134053,32.988070
+214,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+215,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+216,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+217,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+218,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+219,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+220,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+221,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+222,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+223,1696,09/04/2022,07:17:22,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134103,32.988095
+224,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+225,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+226,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+227,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+228,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+229,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+230,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+231,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+232,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+233,1696,09/04/2022,07:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134443,32.988710
+234,1696,09/04/2022,07:25:16,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.148858,33.024930
+235,1696,09/04/2022,07:25:54,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.149453,33.023227
+236,1696,09/04/2022,07:25:54,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.149453,33.023227
+237,1696,09/04/2022,07:26:14,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.148957,33.020868
+238,1696,09/04/2022,07:26:14,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.148957,33.020868
+239,1696,09/04/2022,07:26:28,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.147875,33.019462
+240,1696,09/04/2022,07:26:28,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.147875,33.019462
+241,1696,09/04/2022,09:23:53,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.141483,32.979667
+242,1696,09/04/2022,09:24:02,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.141610,32.978855
+243,1696,09/04/2022,09:24:02,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.141610,32.978855
+244,1696,09/04/2022,09:32:09,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.098707,32.940298
+245,1696,09/04/2022,09:32:09,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.098707,32.940298
+246,1696,09/04/2022,09:33:10,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.091125,32.940805
+247,1696,09/04/2022,09:33:10,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.091125,32.940805
+248,1696,09/04/2022,09:36:08,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.079162,32.931032
+249,1696,09/04/2022,09:36:08,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.079162,32.931032
+250,1696,09/04/2022,10:29:56,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.141790,32.976835
+251,1696,09/04/2022,10:37:24,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.169008,33.038967
+252,1696,09/04/2022,12:03:53,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.146432,32.992743
+253,1696,09/04/2022,12:04:02,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.145992,32.991458
+254,1696,09/04/2022,12:04:02,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.145992,32.991458
+255,1696,09/04/2022,12:04:17,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.145007,32.989983
+256,1696,09/04/2022,12:04:17,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.145007,32.989983
+257,1696,09/04/2022,12:06:12,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.141732,32.976610
+258,1696,09/04/2022,12:06:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.141785,32.975928
+259,1696,09/04/2022,12:06:21,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.141785,32.975928
+260,1696,09/04/2022,12:08:00,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.134793,32.968213
+261,1696,09/04/2022,12:08:09,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.133613,32.967818
+262,1696,09/04/2022,12:08:09,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.133613,32.967818
+263,1687,09/04/2022,06:04:20,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.089447,33.007033
+264,1687,09/04/2022,06:04:20,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.089447,33.007033
+265,1687,09/04/2022,08:49:38,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,17,13.116915,33.027028
+266,1687,09/04/2022,08:50:16,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,19,13.115645,33.022600
+267,1687,09/04/2022,08:50:16,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,19,13.115645,33.022600
+268,1687,09/04/2022,10:32:08,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.148302,32.999468
+269,1687,09/04/2022,10:32:27,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.149830,33.003028
+270,1687,09/04/2022,10:32:27,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.149830,33.003028
+271,1683,09/04/2022,07:09:46,Harsh Braking,Elmahi Hussain,Morning Shift,17,13.138422,32.967853
+272,1683,09/04/2022,10:06:09,Harsh Braking,Elmahi Hussain,Morning Shift,16,13.113275,32.958517
+273,1683,09/04/2022,10:11:57,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.130850,33.000712
+274,1683,09/04/2022,10:11:57,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.130850,33.000712
+275,1683,09/04/2022,12:12:26,Harsh Braking,Elmahi Hussain,Morning Shift,14,13.069258,32.936423
+276,1696,10/04/2022,06:28:32,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.157277,33.039840
+277,1696,10/04/2022,07:30:45,Harsh Braking,Yosri Mohammed,Morning Shift,14,13.144672,33.017043
+278,1696,10/04/2022,07:31:16,Harsh Braking,Yosri Mohammed,Morning Shift,14,13.142742,33.014545
+279,1696,10/04/2022,07:31:16,Harsh Braking,Yosri Mohammed,Morning Shift,14,13.142742,33.014545
+280,1696,10/04/2022,09:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,14,13.104898,32.951070
+281,1696,10/04/2022,09:17:28,Harsh Braking,Yosri Mohammed,Morning Shift,14,13.104898,32.951070
+282,1696,10/04/2022,09:25:30,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.134627,32.995717
+283,1696,10/04/2022,09:25:42,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.134423,32.997587
+284,1696,10/04/2022,09:25:42,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.134423,32.997587
+285,1696,10/04/2022,09:26:04,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.132525,33.000042
+286,1696,10/04/2022,09:26:04,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.132525,33.000042
+287,1696,10/04/2022,12:15:04,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.142323,33.012505
+288,1696,10/04/2022,12:20:55,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.142712,32.987402
+289,1696,10/04/2022,12:21:08,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.142272,32.986400
+290,1696,10/04/2022,12:21:08,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.142272,32.986400
+291,1696,10/04/2022,12:22:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.141040,32.980682
+292,1696,10/04/2022,12:22:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.141040,32.980682
+293,1687,10/04/2022,06:49:07,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,15,13.149260,33.044043
+294,1687,10/04/2022,06:49:07,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,15,13.149260,33.044043
+295,1687,10/04/2022,09:59:17,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,17,13.149133,33.024613
+296,1696,11/04/2022,06:37:17,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.140270,32.970632
+297,1696,11/04/2022,06:37:52,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.140930,32.974755
+298,1696,11/04/2022,06:37:52,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.140930,32.974755
+299,1696,11/04/2022,06:38:01,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.141182,32.976237
+300,1696,11/04/2022,06:38:01,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.141182,32.976237
+301,1696,11/04/2022,10:45:37,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.134933,33.038665
+302,1696,11/04/2022,10:46:24,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.139420,33.046687
+303,1696,11/04/2022,12:24:52,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.135588,33.055568
+304,1696,11/04/2022,12:25:28,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.132883,33.056448
+305,1696,11/04/2022,12:25:28,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.132883,33.056448
+306,1696,11/04/2022,12:47:08,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.119505,32.989862
+307,1696,11/04/2022,12:47:08,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.119505,32.989862
+308,1696,12/04/2022,09:44:06,Harsh Braking,Yosri Mohammed,Morning Shift,9,13.100327,32.943415
+309,1696,12/04/2022,09:44:06,Harsh Braking,Yosri Mohammed,Morning Shift,9,13.100327,32.943415
+310,1696,12/04/2022,11:05:01,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.081048,32.930782
+311,1696,12/04/2022,11:05:01,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.081048,32.930782
+312,1696,12/04/2022,11:10:08,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.110022,32.956363
+313,1696,12/04/2022,11:10:08,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.110022,32.956363
+314,1696,12/04/2022,11:11:19,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.117393,32.962667
+315,1696,12/04/2022,11:11:19,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.117393,32.962667
+316,1696,12/04/2022,11:19:18,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.124667,33.012478
+317,1696,12/04/2022,11:20:42,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.130453,33.022437
+318,1696,12/04/2022,11:20:47,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.130807,33.023148
+319,1696,12/04/2022,11:20:47,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.130807,33.023148
+320,1696,12/04/2022,11:21:08,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.131508,33.027125
+321,1696,12/04/2022,11:21:08,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.131508,33.027125
+322,1696,12/04/2022,11:23:33,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.137060,33.043608
+323,1696,12/04/2022,11:24:06,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.140865,33.048588
+324,1696,12/04/2022,11:24:06,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.140865,33.048588
+325,1696,12/04/2022,12:12:00,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.130720,33.022713
+326,1696,12/04/2022,12:12:00,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.130720,33.022713
+327,1696,12/04/2022,12:12:00,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.130720,33.022713
+328,1696,12/04/2022,12:12:00,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.130720,33.022713
+329,1696,12/04/2022,12:20:15,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.124907,33.013337
+330,1696,12/04/2022,12:23:09,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.134443,32.995485
+331,1696,12/04/2022,12:23:09,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.134443,32.995485
+332,1696,12/04/2022,12:23:56,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134127,32.988800
+333,1696,12/04/2022,12:23:56,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134127,32.988800
+334,1696,12/04/2022,12:23:56,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134127,32.988800
+335,1696,12/04/2022,12:23:56,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.134127,32.988800
+336,1696,12/04/2022,12:24:12,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.133098,32.987490
+337,1696,12/04/2022,12:24:12,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.133098,32.987490
+338,1696,12/04/2022,12:24:12,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.133098,32.987490
+339,1696,12/04/2022,12:24:12,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.133098,32.987490
+340,1696,12/04/2022,12:24:15,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.132817,32.987342
+341,1696,12/04/2022,12:24:15,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.132817,32.987342
+342,1696,12/04/2022,12:24:15,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.132817,32.987342
+343,1696,12/04/2022,12:24:15,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.132817,32.987342
+344,1696,12/04/2022,12:24:31,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.131060,32.986355
+345,1696,12/04/2022,12:24:31,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.131060,32.986355
+346,1696,12/04/2022,12:24:31,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.131060,32.986355
+347,1696,12/04/2022,12:24:31,Harsh Braking,Yosri Mohammed,Morning Shift,6,13.131060,32.986355
+348,1696,12/04/2022,12:25:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.128645,32.984392
+349,1696,12/04/2022,12:25:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.128645,32.984392
+350,1696,12/04/2022,12:25:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.128645,32.984392
+351,1696,12/04/2022,12:25:07,Harsh Braking,Yosri Mohammed,Morning Shift,4,13.128645,32.984392
+352,1696,12/04/2022,12:34:25,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.089000,32.940418
+353,1696,12/04/2022,12:34:25,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.089000,32.940418
+354,1696,12/04/2022,12:52:05,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.075568,32.931947
+355,1696,12/04/2022,12:52:05,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.075568,32.931947
+356,1687,13/04/2022,07:44:00,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,19,13.162735,32.977025
+357,1687,13/04/2022,07:44:00,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,19,13.162735,32.977025
+358,1687,13/04/2022,09:43:20,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.162945,32.947857
+359,1687,13/04/2022,09:43:20,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.162945,32.947857
+360,1687,13/04/2022,13:32:13,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.082055,32.931305
+361,1687,13/04/2022,13:32:13,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,16,13.082055,32.931305
+362,1683,13/04/2022,09:11:05,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.082793,32.936680
+363,1683,13/04/2022,11:40:25,Harsh Braking,Elmahi Hussain,Morning Shift,15,13.162340,32.976943
+364,1683,13/04/2022,11:53:10,Harsh Braking,Elmahi Hussain,Morning Shift,14,13.092565,32.941185
+365,1683,13/04/2022,11:53:29,Harsh Braking,Elmahi Hussain,Morning Shift,13,13.090353,32.940612
+366,1683,13/04/2022,12:00:09,Harsh Braking,Elmahi Hussain,Morning Shift,13,13.070760,32.932190
+367,1696,13/04/2022,08:22:29,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.101550,32.960443
+368,1696,13/04/2022,08:22:29,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.101550,32.960443
+369,1696,13/04/2022,09:29:26,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.071313,32.933140
+370,1696,13/04/2022,09:29:26,Harsh Braking,Yosri Mohammed,Morning Shift,8,13.071313,32.933140
+371,1696,13/04/2022,12:05:04,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.094043,32.963348
+372,1696,13/04/2022,12:05:04,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.094043,32.963348
+373,1696,13/04/2022,12:23:25,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.089148,32.940502
+374,1696,13/04/2022,12:23:25,Harsh Braking,Yosri Mohammed,Morning Shift,5,13.089148,32.940502
+375,1683,14/04/2022,06:47:04,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.141620,32.976538
+376,1683,14/04/2022,06:47:20,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.141593,32.978115
+377,1683,14/04/2022,09:05:38,Harsh Braking,Elmahi Hussain,Morning Shift,17,13.156597,33.011527
+378,1683,14/04/2022,09:06:11,Harsh Braking,Elmahi Hussain,Morning Shift,17,13.153555,33.008155
+379,1683,14/04/2022,11:46:10,Harsh Braking,Elmahi Hussain,Morning Shift,15,13.164022,32.948645
+380,1683,14/04/2022,11:46:18,Harsh Braking,Elmahi Hussain,Morning Shift,15,13.164463,32.949007
+381,1683,14/04/2022,13:35:58,Harsh Braking,Elmahi Hussain,Morning Shift,15,13.170235,32.914637
+382,1683,14/04/2022,13:36:02,Harsh Braking,Elmahi Hussain,Morning Shift,15,13.169940,32.914228
+383,1683,14/04/2022,13:50:28,Harsh Braking,Elmahi Hussain,Morning Shift,17,13.078078,32.931303
+384,1696,14/04/2022,10:44:15,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.083132,32.930258
+385,1696,14/04/2022,10:44:15,Harsh Braking,Yosri Mohammed,Morning Shift,7,13.083132,32.930258
+386,1683,15/04/2022,09:18:22,Harsh Braking,Abdallah Ahmed,Morning Shift,17,13.096272,32.956542
+387,1683,15/04/2022,12:54:01,Harsh Braking,Abdallah Ahmed,Morning Shift,14,13.070993,32.976222
+388,1683,15/04/2022,12:54:03,Harsh Braking,Abdallah Ahmed,Morning Shift,14,13.071083,32.976260
+389,1687,08/04/2022,11:26:15,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.091708,32.940948
+390,1687,08/04/2022,11:26:15,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.091708,32.940948
+391,1687,08/04/2022,12:20:56,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,14,13.161825,32.976823
+392,1687,08/04/2022,12:21:07,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,13,13.163262,32.977223
+393,1687,08/04/2022,12:21:07,Harsh Braking,Mohmmed Abd Alkarim,Morning Shift,13,13.163262,32.977223
+394,1683,08/04/2022,07:31:19,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.103077,32.922423
+395,1683,08/04/2022,09:34:49,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.166080,32.977885
+396,1683,08/04/2022,09:35:23,Harsh Braking,Elmahi Hussain,Morning Shift,18,13.164448,32.977440
+397,1683,08/04/2022,13:01:03,Harsh Braking,Elmahi Hussain,Morning Shift,15,13.144582,33.016930
+398,1683,08/04/2022,13:16:27,Harsh Braking,Elmahi Hussain,Morning Shift,13,13.090243,32.940540
+399,1692,16/04/2022,11:41:45,Harsh Braking,Ahmed Elhaj,Morning Shift,14,13.125650,33.009055
+400,1694,17/04/2022,13:38:09,Harsh Braking,Ahmed Toto,Morning Shift,16,13.082443,32.932282
+401,1694,17/04/2022,13:38:09,Harsh Braking,Ahmed Toto,Morning Shift,16,13.082443,32.932282
+402,1692,17/04/2022,09:38:12,Harsh Braking,Ahmed Elhaj,Morning Shift,17,13.081442,32.930968
+403,1692,18/04/2022,08:49:38,Harsh Braking,Ahmed Elhaj,Morning Shift,19,13.172598,33.047533
+404,1692,18/04/2022,09:06:12,Harsh Braking,Ahmed Elhaj,Morning Shift,18,13.090950,32.940717
+405,1692,18/04/2022,10:13:19,Harsh Braking,Ahmed Elhaj,Morning Shift,18,13.072677,32.934127
+406,1683,20/04/2022,09:27:54,Harsh Braking,Abdallah Ahmed,Morning Shift,19,13.142530,32.984288
+407,1683,20/04/2022,12:56:29,Harsh Braking,Abdallah Ahmed,Morning Shift,14,13.093395,32.941378
+408,1687,21/04/2022,07:05:36,Harsh Braking,Wali Elden Abdalla,Morning Shift,18,13.149715,33.000998
+409,1694,05/04/2022,13:46:00,Harsh Cornering,Ibrahim Abaker,Morning Shift,15,13.089432,32.974683
+410,1694,05/04/2022,13:46:00,Harsh Cornering,Ibrahim Abaker,Morning Shift,15,13.089432,32.974683
+411,1694,05/04/2022,13:49:02,Harsh Cornering,Ibrahim Abaker,Morning Shift,15,13.069883,32.976990
+412,1694,05/04/2022,13:49:02,Harsh Cornering,Ibrahim Abaker,Morning Shift,15,13.069883,32.976990
+413,1690,06/04/2022,06:13:15,Harsh Cornering,Mohmmed Abdalla,Morning Shift,15,13.064875,33.088302
+414,1690,06/04/2022,06:13:15,Harsh Cornering,Mohmmed Abdalla,Morning Shift,15,13.064875,33.088302
+415,1696,07/04/2022,12:52:19,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.070348,32.927875
+416,1696,07/04/2022,12:52:19,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.070348,32.927875
+417,1683,07/04/2022,12:59:07,Harsh Cornering,Elmahi Hussain,Morning Shift,8,13.070737,32.929575
+418,1696,09/04/2022,07:19:57,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.126248,33.006475
+419,1696,09/04/2022,07:20:22,Harsh Cornering,Yosri Mohammed,Morning Shift,7,13.125242,33.010082
+420,1696,09/04/2022,07:20:22,Harsh Cornering,Yosri Mohammed,Morning Shift,7,13.125242,33.010082
+421,1696,09/04/2022,07:25:54,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.149453,33.023227
+422,1696,09/04/2022,07:25:54,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.149453,33.023227
+423,1696,09/04/2022,07:26:14,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.148957,33.020868
+424,1696,09/04/2022,07:26:14,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.148957,33.020868
+425,1696,09/04/2022,07:26:28,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.147875,33.019462
+426,1696,09/04/2022,07:26:28,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.147875,33.019462
+427,1696,09/04/2022,09:25:03,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.141648,32.973922
+428,1696,09/04/2022,09:25:24,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.140785,32.971140
+429,1696,09/04/2022,09:25:24,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.140785,32.971140
+430,1696,09/04/2022,09:33:13,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.090785,32.940595
+431,1696,09/04/2022,09:33:13,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.090785,32.940595
+432,1696,09/04/2022,10:35:35,Harsh Cornering,Yosri Mohammed,Morning Shift,5,13.167235,33.024262
+433,1696,09/04/2022,10:36:27,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.172670,33.030335
+434,1696,09/04/2022,10:36:27,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.172670,33.030335
+435,1687,09/04/2022,08:43:27,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,17,13.132425,33.066297
+436,1694,09/04/2022,07:08:15,Harsh Cornering,Ibrahim Abaker,Morning Shift,16,13.071440,32.933728
+437,1694,09/04/2022,07:08:15,Harsh Cornering,Ibrahim Abaker,Morning Shift,16,13.071440,32.933728
+438,1694,09/04/2022,13:03:54,Harsh Cornering,Ibrahim Abaker,Morning Shift,15,13.075268,32.931747
+439,1694,09/04/2022,13:04:07,Harsh Cornering,Ibrahim Abaker,Morning Shift,14,13.075322,32.933093
+440,1694,09/04/2022,13:04:07,Harsh Cornering,Ibrahim Abaker,Morning Shift,14,13.075322,32.933093
+441,1683,09/04/2022,09:10:26,Harsh Cornering,Elmahi Hussain,Morning Shift,16,13.084687,32.939115
+442,1683,09/04/2022,12:09:18,Harsh Cornering,Elmahi Hussain,Morning Shift,14,13.077638,32.962965
+443,1690,09/04/2022,13:47:25,Harsh Cornering,Mohmmed Abdalla,Morning Shift,16,13.075103,32.933283
+444,1690,09/04/2022,13:47:25,Harsh Cornering,Mohmmed Abdalla,Morning Shift,16,13.075103,32.933283
+445,1694,10/04/2022,11:25:14,Harsh Cornering,Ibrahim Abaker,Morning Shift,15,13.132898,32.930953
+446,1694,10/04/2022,11:25:14,Harsh Cornering,Ibrahim Abaker,Morning Shift,15,13.132898,32.930953
+447,1696,10/04/2022,09:24:30,Harsh Cornering,Yosri Mohammed,Morning Shift,9,13.132668,32.987072
+448,1692,10/04/2022,11:00:04,Harsh Cornering,Osama Ahmed,Morning Shift,19,13.071648,32.933935
+449,1694,11/04/2022,11:00:18,Harsh Cornering,Ibrahim Abaker,Morning Shift,20,13.071690,32.934068
+450,1694,11/04/2022,11:00:18,Harsh Cornering,Ibrahim Abaker,Morning Shift,20,13.071690,32.934068
+451,1696,12/04/2022,12:24:31,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.131060,32.986355
+452,1696,12/04/2022,12:24:31,Harsh Cornering,Yosri Mohammed,Morning Shift,6,13.131060,32.986355
+453,1696,12/04/2022,12:25:07,Harsh Cornering,Yosri Mohammed,Morning Shift,4,13.128645,32.984392
+454,1696,12/04/2022,12:25:07,Harsh Cornering,Yosri Mohammed,Morning Shift,4,13.128645,32.984392
+455,1692,12/04/2022,10:36:11,Harsh Cornering,Osama Ahmed,Morning Shift,17,13.069195,32.934525
+456,1692,12/04/2022,10:51:20,Harsh Cornering,Osama Ahmed,Morning Shift,16,13.067888,33.049048
+457,1692,12/04/2022,10:59:02,Harsh Cornering,Osama Ahmed,Morning Shift,16,13.008640,33.042810
+458,1687,12/04/2022,06:14:56,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,18,13.160270,33.015952
+459,1687,12/04/2022,06:15:07,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,18,13.160912,33.016972
+460,1687,12/04/2022,06:15:07,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,18,13.160912,33.016972
+461,1687,12/04/2022,10:49:00,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,17,13.067895,33.049038
+462,1687,12/04/2022,10:49:00,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,17,13.067895,33.049038
+463,1687,12/04/2022,10:57:22,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,17,13.008623,33.042743
+464,1687,12/04/2022,10:57:22,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,17,13.008623,33.042743
+465,1687,12/04/2022,10:57:24,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,17,13.008663,33.042918
+466,1687,12/04/2022,10:57:24,Harsh Cornering,Mohmmed Abd Alkarim,Morning Shift,17,13.008663,33.042918
+467,1692,13/04/2022,06:03:04,Harsh Cornering,Osama Ahmed,Morning Shift,16,13.181560,32.960737
+468,1683,13/04/2022,08:53:58,Harsh Cornering,Elmahi Hussain,Morning Shift,20,13.166148,33.022400
+469,1683,13/04/2022,11:15:00,Harsh Cornering,Elmahi Hussain,Morning Shift,16,13.179557,32.966048
+470,1683,13/04/2022,11:15:16,Harsh Cornering,Elmahi Hussain,Morning Shift,16,13.179107,32.966855
+471,1683,13/04/2022,12:01:28,Harsh Cornering,Elmahi Hussain,Morning Shift,12,13.070823,32.929737
+472,1696,13/04/2022,09:36:28,Harsh Cornering,Yosri Mohammed,Morning Shift,11,13.082432,32.932397
+473,1696,13/04/2022,09:36:28,Harsh Cornering,Yosri Mohammed,Morning Shift,11,13.082432,32.932397
+474,1683,14/04/2022,09:35:26,Harsh Cornering,Elmahi Hussain,Morning Shift,16,13.075503,32.930293
+475,1692,15/04/2022,12:02:08,Harsh Cornering,Ahmed Elhaj,Morning Shift,13,13.083337,32.938007
+476,1696,08/04/2022,13:46:04,Harsh Cornering,Yosri Mohammed,Morning Shift,7,13.089453,32.940637
+477,1696,08/04/2022,13:46:04,Harsh Cornering,Yosri Mohammed,Morning Shift,7,13.089453,32.940637
+478,1694,08/04/2022,11:07:11,Harsh Cornering,Ibrahim Abaker,Morning Shift,16,13.082048,32.931267
+479,1694,08/04/2022,11:07:11,Harsh Cornering,Ibrahim Abaker,Morning Shift,16,13.082048,32.931267
+480,1683,08/04/2022,09:42:08,Harsh Cornering,Elmahi Hussain,Morning Shift,19,13.157202,32.975543
+481,1696,18/04/2022,09:15:44,Harsh Cornering,Kamal Eldein Mohamed,Morning Shift,18,13.116258,33.013070
+482,1691,18/04/2022,11:08:16,Harsh Cornering,Sadig Osman,Morning Shift,16,13.072012,32.948068
+483,1691,18/04/2022,11:08:16,Harsh Cornering,Sadig Osman,Morning Shift,16,13.072012,32.948068
+484,1683,20/04/2022,12:59:12,Harsh Cornering,Abdallah Ahmed,Morning Shift,16,13.080772,32.930952
+485,1687,20/04/2022,08:18:35,Harsh Cornering,Wali Elden Abdalla,Morning Shift,21,13.156210,33.011022
+Afternoon,,,,,,,,,
+FID,Object,Date,Time,Violation Type,Drivers Name,Driving Shift,No of Satellite,X,Y
+0,1687,05/04/2022,20:10:35,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,17,13.133912,33.068800
+1,1687,06/04/2022,15:17:11,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,17,13.070080,33.090687
+2,1687,06/04/2022,15:17:11,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,17,13.070080,33.090687
+3,1687,06/04/2022,19:50:18,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,16,13.104055,32.927907
+4,1687,06/04/2022,19:50:18,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,16,13.104055,32.927907
+5,1696,06/04/2022,15:28:01,Harsh Acceleration,Kamal Eldein Mohamed,Afternoon Shift,7,13.067482,33.088652
+6,1696,06/04/2022,15:28:01,Harsh Acceleration,Kamal Eldein Mohamed,Afternoon Shift,7,13.067482,33.088652
+7,1696,06/04/2022,15:28:27,Harsh Acceleration,Kamal Eldein Mohamed,Afternoon Shift,10,13.068518,33.089953
+8,1696,06/04/2022,15:28:27,Harsh Acceleration,Kamal Eldein Mohamed,Afternoon Shift,10,13.068518,33.089953
+9,1687,07/04/2022,14:52:41,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,17,13.172577,33.029578
+10,1687,09/04/2022,20:23:11,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,16,13.178792,33.035305
+11,1687,10/04/2022,16:56:41,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,19,13.149478,33.003315
+12,1687,10/04/2022,17:01:58,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,17,13.139512,32.970270
+13,1687,10/04/2022,17:02:10,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,17,13.137850,32.969642
+14,1687,10/04/2022,17:02:10,Harsh Acceleration,Wali Elden Abdalla,Afternoon Shift,17,13.137850,32.969642
+15,1683,11/04/2022,14:57:25,Harsh Acceleration,Abdallah Ahmed,Afternoon Shift,16,13.065502,33.026180
+16,1683,11/04/2022,14:57:26,Harsh Acceleration,Abdallah Ahmed,Afternoon Shift,16,13.065528,33.026287
+17,1683,13/04/2022,14:14:20,Harsh Acceleration,Abdallah Ahmed,Afternoon Shift,4,13.069787,32.927272
+18,1683,14/04/2022,15:49:02,Harsh Acceleration,Abdallah Ahmed,Afternoon Shift,16,13.079448,32.965833
+19,1683,14/04/2022,17:16:01,Harsh Acceleration,Abdallah Ahmed,Afternoon Shift,19,13.090390,32.996365
+20,1683,14/04/2022,19:07:22,Harsh Acceleration,Abdallah Ahmed,Afternoon Shift,16,13.165640,32.949813
+21,1683,14/04/2022,19:07:28,Harsh Acceleration,Abdallah Ahmed,Afternoon Shift,17,13.166363,32.950122
+22,1696,15/04/2022,21:02:09,Harsh Acceleration,Fatheiy Ahmed,Afternoon Shift,10,13.145650,33.060772
+23,1696,08/04/2022,15:09:18,Harsh Acceleration,Kamal Eldein Mohamed,Afternoon Shift,9,13.075053,32.933363
+24,1696,08/04/2022,15:09:18,Harsh Acceleration,Kamal Eldein Mohamed,Afternoon Shift,9,13.075053,32.933363
+25,1692,14/04/2022,14:04:05,Harsh Acceleration,Ahmed Elhaj,Afternoon Shift,15,13.093813,32.927287
+26,1692,14/04/2022,14:07:25,Harsh Acceleration,Ahmed Elhaj,Afternoon Shift,15,13.116958,32.936655
+27,1692,14/04/2022,16:54:48,Harsh Acceleration,Ahmed Elhaj,Afternoon Shift,18,13.143122,32.971913
+28,1692,14/04/2022,16:55:05,Harsh Acceleration,Ahmed Elhaj,Afternoon Shift,18,13.142935,32.974163
+29,1692,14/04/2022,19:04:17,Harsh Acceleration,Ahmed Elhaj,Afternoon Shift,18,13.159792,32.945628
+30,1687,17/04/2022,19:22:16,Harsh Acceleration,Alfadil Hassan,Afternoon Shift,17,13.078650,32.931183
+31,1687,17/04/2022,19:22:16,Harsh Acceleration,Alfadil Hassan,Afternoon Shift,17,13.078650,32.931183
+32,1683,20/04/2022,14:06:22,Harsh Acceleration,Mohmed Elsadig,Afternoon Shift,15,13.169917,33.036905
+33,1683,20/04/2022,17:20:46,Harsh Acceleration,Mohmed Elsadig,Afternoon Shift,14,13.149852,33.003200
+34,1683,20/04/2022,17:21:02,Harsh Acceleration,Mohmed Elsadig,Afternoon Shift,15,13.149167,33.001427
+35,1683,20/04/2022,17:21:04,Harsh Acceleration,Mohmed Elsadig,Afternoon Shift,15,13.149052,33.001177
+36,1683,20/04/2022,18:50:12,Harsh Acceleration,Mohmed Elsadig,Afternoon Shift,16,13.089308,32.940457
+37,1696,20/04/2022,14:39:53,Harsh Acceleration,Fatheiy Ahmed,Afternoon Shift,9,13.148192,32.999325
+38,1696,20/04/2022,14:40:05,Harsh Acceleration,Fatheiy Ahmed,Afternoon Shift,9,13.148798,33.000618
+39,1696,20/04/2022,14:40:05,Harsh Acceleration,Fatheiy Ahmed,Afternoon Shift,9,13.148798,33.000618
+40,1696,20/04/2022,20:53:40,Harsh Acceleration,Fatheiy Ahmed,Afternoon Shift,11,13.150265,33.004233
+41,1696,20/04/2022,20:54:23,Harsh Acceleration,Fatheiy Ahmed,Afternoon Shift,13,13.153155,33.007732
+42,1696,20/04/2022,20:54:23,Harsh Acceleration,Fatheiy Ahmed,Afternoon Shift,13,13.153155,33.007732
+43,1696,05/04/2022,18:27:01,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,4,13.071005,33.153225
+44,1696,05/04/2022,18:27:04,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,4,13.070977,33.153238
+45,1696,05/04/2022,18:27:04,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,4,13.070977,33.153238
+46,1687,06/04/2022,18:44:17,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,16,13.079593,33.120945
+47,1687,06/04/2022,18:44:17,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,16,13.079593,33.120945
+48,1696,06/04/2022,15:10:13,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,4,13.133025,32.911827
+49,1696,06/04/2022,15:10:13,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,4,13.133025,32.911827
+50,1696,06/04/2022,15:21:25,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,6,13.069853,33.057333
+51,1696,06/04/2022,15:21:25,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,6,13.069853,33.057333
+52,1696,06/04/2022,15:28:01,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,7,13.067482,33.088652
+53,1696,06/04/2022,15:28:01,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,7,13.067482,33.088652
+54,1696,06/04/2022,15:28:09,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,8,13.068298,33.088968
+55,1696,06/04/2022,15:28:09,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,8,13.068298,33.088968
+56,1696,06/04/2022,15:28:27,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,10,13.068518,33.089953
+57,1696,06/04/2022,15:28:27,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,10,13.068518,33.089953
+58,1696,06/04/2022,20:42:20,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,7,13.070752,32.932325
+59,1696,06/04/2022,20:42:20,Harsh Braking,Kamal Eldein Mohamed,Afternoon Shift,7,13.070752,32.932325
+60,1683,06/04/2022,15:07:12,Harsh Braking,Abdallah Ahmed,Afternoon Shift,17,13.136338,32.945762
+61,1683,06/04/2022,15:13:07,Harsh Braking,Abdallah Ahmed,Afternoon Shift,16,13.171547,32.952087
+62,1683,06/04/2022,15:44:12,Harsh Braking,Abdallah Ahmed,Afternoon Shift,15,13.197825,32.953395
+63,1687,07/04/2022,18:53:13,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,18,13.162305,32.976983
+64,1687,07/04/2022,18:53:24,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,18,13.163387,32.977282
+65,1687,07/04/2022,18:53:24,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,18,13.163387,32.977282
+66,1687,07/04/2022,21:19:38,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,18,13.150712,32.971673
+67,1687,07/04/2022,21:20:28,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,18,13.144677,32.969732
+68,1687,07/04/2022,21:20:28,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,18,13.144677,32.969732
+69,1683,07/04/2022,19:37:22,Harsh Braking,Abdallah Ahmed,Afternoon Shift,17,13.071418,32.932973
+70,1683,07/04/2022,19:38:12,Harsh Braking,Abdallah Ahmed,Afternoon Shift,18,13.075150,32.933310
+71,1687,10/04/2022,16:56:41,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,19,13.149478,33.003315
+72,1687,10/04/2022,20:41:08,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,14,13.078352,32.931357
+73,1687,10/04/2022,20:41:08,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,14,13.078352,32.931357
+74,1683,10/04/2022,16:55:19,Harsh Braking,Abdallah Ahmed,Afternoon Shift,8,13.075293,32.933237
+75,1691,11/04/2022,19:14:18,Harsh Braking,Sadig Osman,Afternoon Shift,17,13.137235,33.044047
+76,1683,11/04/2022,14:52:12,Harsh Braking,Abdallah Ahmed,Afternoon Shift,16,13.069705,32.992902
+77,1683,11/04/2022,14:57:25,Harsh Braking,Abdallah Ahmed,Afternoon Shift,16,13.065502,33.026180
+78,1683,11/04/2022,14:57:26,Harsh Braking,Abdallah Ahmed,Afternoon Shift,16,13.065528,33.026287
+79,1683,11/04/2022,15:05:24,Harsh Braking,Abdallah Ahmed,Afternoon Shift,14,13.048492,33.053402
+80,1683,11/04/2022,16:23:01,Harsh Braking,Abdallah Ahmed,Afternoon Shift,18,13.006337,33.008170
+81,1683,14/04/2022,15:57:29,Harsh Braking,Abdallah Ahmed,Afternoon Shift,16,13.068380,33.001577
+82,1683,14/04/2022,17:22:10,Harsh Braking,Abdallah Ahmed,Afternoon Shift,20,13.076042,32.954330
+83,1683,14/04/2022,18:56:20,Harsh Braking,Abdallah Ahmed,Afternoon Shift,17,13.112742,32.934407
+84,1687,14/04/2022,19:35:18,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,17,13.094607,32.941427
+85,1687,14/04/2022,19:35:18,Harsh Braking,Wali Elden Abdalla,Afternoon Shift,17,13.094607,32.941427
+86,1696,15/04/2022,14:17:29,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,5,13.129355,32.977002
+87,1696,15/04/2022,14:17:29,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,5,13.129355,32.977002
+88,1696,15/04/2022,14:31:35,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,4,13.142135,33.050127
+89,1696,15/04/2022,14:31:40,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,4,13.142118,33.050103
+90,1696,15/04/2022,21:02:57,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,8,13.144347,33.061362
+91,1696,15/04/2022,21:02:57,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,8,13.144347,33.061362
+92,1696,15/04/2022,21:03:00,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,9,13.144298,33.061355
+93,1696,15/04/2022,21:03:00,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,9,13.144298,33.061355
+94,1683,15/04/2022,15:20:08,Harsh Braking,Mohmed Elsadig,Afternoon Shift,18,13.048890,32.949900
+95,1683,08/04/2022,16:21:20,Harsh Braking,Abdallah Ahmed,Afternoon Shift,18,13.147193,32.997137
+96,1683,08/04/2022,21:47:24,Harsh Braking,Abdallah Ahmed,Afternoon Shift,16,13.141322,32.980040
+97,1692,14/04/2022,14:15:18,Harsh Braking,Ahmed Elhaj,Afternoon Shift,15,13.163655,32.948420
+98,1696,17/04/2022,14:50:05,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,15,13.081778,32.931045
+99,1696,17/04/2022,14:50:05,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,15,13.081778,32.931045
+100,1696,17/04/2022,21:01:16,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,4,13.074417,32.933208
+101,1696,17/04/2022,21:01:16,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,4,13.074417,32.933208
+102,1683,18/04/2022,17:25:03,Harsh Braking,Mohmed Elsadig,Afternoon Shift,13,13.093018,32.941878
+103,1696,18/04/2022,16:05:23,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,4,13.075368,32.931680
+104,1696,18/04/2022,16:05:23,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,4,13.075368,32.931680
+105,1683,20/04/2022,14:06:22,Harsh Braking,Mohmed Elsadig,Afternoon Shift,15,13.169917,33.036905
+106,1683,20/04/2022,17:20:46,Harsh Braking,Mohmed Elsadig,Afternoon Shift,14,13.149852,33.003200
+107,1683,20/04/2022,17:21:02,Harsh Braking,Mohmed Elsadig,Afternoon Shift,15,13.149167,33.001427
+108,1683,20/04/2022,17:21:04,Harsh Braking,Mohmed Elsadig,Afternoon Shift,15,13.149052,33.001177
+109,1683,20/04/2022,19:01:18,Harsh Braking,Mohmed Elsadig,Afternoon Shift,17,13.157587,33.012935
+110,1683,20/04/2022,19:02:50,Harsh Braking,Mohmed Elsadig,Afternoon Shift,17,13.165922,33.023107
+111,1683,20/04/2022,19:03:00,Harsh Braking,Mohmed Elsadig,Afternoon Shift,17,13.166917,33.024148
+112,1696,20/04/2022,20:56:24,Harsh Braking,Fatheiy Ahmed,Afternoon Shift,9,13.162748,33.013980
+113,1696,05/04/2022,21:41:11,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,5,13.089223,32.974683
+114,1696,05/04/2022,21:41:11,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,5,13.089223,32.974683
+115,1696,05/04/2022,21:41:11,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,5,13.089223,32.974683
+116,1683,05/04/2022,17:29:09,Harsh Cornering,Abdallah Ahmed,Afternoon Shift,16,13.168965,33.039217
+117,1683,05/04/2022,17:29:23,Harsh Cornering,Abdallah Ahmed,Afternoon Shift,18,13.168737,33.040923
+118,1687,06/04/2022,15:00:25,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,18,13.069902,32.977052
+119,1687,06/04/2022,15:00:25,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,18,13.069902,32.977052
+120,1687,06/04/2022,18:41:56,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.087972,33.130077
+121,1687,06/04/2022,18:42:05,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.088092,33.129268
+122,1687,06/04/2022,18:42:05,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.088092,33.129268
+123,1687,06/04/2022,18:44:28,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.079035,33.119925
+124,1687,06/04/2022,18:44:28,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.079035,33.119925
+125,1687,06/04/2022,19:03:13,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,19,13.091193,33.003847
+126,1687,06/04/2022,19:03:13,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,19,13.091193,33.003847
+127,1696,06/04/2022,14:50:08,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,5,13.071983,32.930342
+128,1696,06/04/2022,14:50:08,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,5,13.071983,32.930342
+129,1696,06/04/2022,15:15:02,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,7,13.068778,32.998418
+130,1696,06/04/2022,15:15:02,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,7,13.068778,32.998418
+131,1696,06/04/2022,15:22:09,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,7,13.068330,33.059902
+132,1696,06/04/2022,15:22:09,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,7,13.068330,33.059902
+133,1696,06/04/2022,20:24:49,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,8,13.119827,32.996142
+134,1691,06/04/2022,17:51:09,Harsh Cornering,Sadig Osman,Afternoon Shift,19,13.092447,33.137733
+135,1691,06/04/2022,17:51:09,Harsh Cornering,Sadig Osman,Afternoon Shift,19,13.092447,33.137733
+136,1691,06/04/2022,17:51:12,Harsh Cornering,Sadig Osman,Afternoon Shift,19,13.092183,33.137825
+137,1691,06/04/2022,17:51:12,Harsh Cornering,Sadig Osman,Afternoon Shift,19,13.092183,33.137825
+138,1683,06/04/2022,15:11:07,Harsh Cornering,Abdallah Ahmed,Afternoon Shift,16,13.158860,32.945168
+139,1683,06/04/2022,15:45:28,Harsh Cornering,Abdallah Ahmed,Afternoon Shift,17,13.196020,32.946030
+140,1683,11/04/2022,14:51:06,Harsh Cornering,Abdallah Ahmed,Afternoon Shift,17,13.069342,32.983060
+141,1687,12/04/2022,20:15:08,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.139865,33.053003
+142,1687,12/04/2022,20:15:20,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.140858,33.052658
+143,1687,12/04/2022,20:15:20,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,16,13.140858,33.052658
+144,1687,14/04/2022,21:46:29,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,17,13.160523,33.016308
+145,1690,14/04/2022,18:45:57,Harsh Cornering,Yassin Mohmmed,Afternoon Shift,18,13.156928,33.012078
+146,1696,14/04/2022,19:32:00,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,14,13.181177,32.961490
+147,1696,14/04/2022,19:32:00,Harsh Cornering,Kamal Eldein Mohamed,Afternoon Shift,14,13.181177,32.961490
+148,1687,08/04/2022,14:00:05,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,14,13.097435,32.940408
+149,1687,08/04/2022,14:00:05,Harsh Cornering,Wali Elden Abdalla,Afternoon Shift,14,13.097435,32.940408
+150,1692,16/04/2022,14:05:11,Harsh Cornering,Farog Fadl Elseed,Afternoon Shift,16,13.113987,32.974997
+151,1696,17/04/2022,16:57:13,Harsh Cornering,Fatheiy Ahmed,Afternoon Shift,6,13.098062,32.940217
+152,1696,17/04/2022,16:57:13,Harsh Cornering,Fatheiy Ahmed,Afternoon Shift,6,13.098062,32.940217
+153,1692,18/04/2022,18:47:02,Harsh Cornering,Farog Fadl Elseed,Afternoon Shift,18,13.072088,32.948057
+154,1683,18/04/2022,19:07:12,Harsh Cornering,Mohmed Elsadig,Afternoon Shift,17,13.172087,33.029197
+155,1683,18/04/2022,19:07:23,Harsh Cornering,Mohmed Elsadig,Afternoon Shift,16,13.172690,33.030225
+156,1683,20/04/2022,14:03:43,Harsh Cornering,Mohmed Elsadig,Afternoon Shift,18,13.166425,33.023583
+157,1683,20/04/2022,14:04:22,Harsh Cornering,Mohmed Elsadig,Afternoon Shift,17,13.169540,33.026618
+158,1687,20/04/2022,16:45:22,Harsh Cornering,Alfadil Hassan,Afternoon Shift,18,13.100122,32.941693
+159,1687,20/04/2022,16:45:22,Harsh Cornering,Alfadil Hassan,Afternoon Shift,18,13.100122,32.941693
+160,1694,20/04/2022,14:18:27,Harsh Cornering,Musa M Edris,Afternoon Shift,18,13.156223,33.011100
+NIGHT,,,,,,,,,
+FID,Object,Date,Time,Violation Type,Drivers Name,Driving Shift,No of Satellite,X,Y
+0,1696,05/04/2022,23:16:31,Harsh Acceleration,Fatheiy Ahmed,Night Shift,7,13.125188,33.119825
+1,1687,06/04/2022,05:48:35,Harsh Acceleration,Alfadil Hassan,Night Shift,16,13.166922,33.024097
+2,1687,06/04/2022,05:49:20,Harsh Acceleration,Alfadil Hassan,Night Shift,16,13.170940,33.028080
+3,1687,06/04/2022,05:49:20,Harsh Acceleration,Alfadil Hassan,Night Shift,16,13.170940,33.028080
+4,1687,06/04/2022,05:49:21,Harsh Acceleration,Alfadil Hassan,Night Shift,16,13.171025,33.028157
+5,1687,06/04/2022,05:49:21,Harsh Acceleration,Alfadil Hassan,Night Shift,16,13.171025,33.028157
+6,1687,06/04/2022,05:52:21,Harsh Acceleration,Alfadil Hassan,Night Shift,16,13.173015,33.048197
+7,1696,09/04/2022,03:24:18,Harsh Acceleration,Fatheiy Ahmed,Night Shift,8,13.101305,32.922840
+8,1696,09/04/2022,03:24:18,Harsh Acceleration,Fatheiy Ahmed,Night Shift,8,13.101305,32.922840
+9,1694,10/04/2022,02:26:44,Harsh Acceleration,Musa M Edris,Night Shift,14,13.141458,32.973207
+10,1694,10/04/2022,02:27:22,Harsh Acceleration,Musa M Edris,Night Shift,14,13.137442,32.969530
+11,1694,10/04/2022,02:27:22,Harsh Acceleration,Musa M Edris,Night Shift,14,13.137442,32.969530
+12,1696,10/04/2022,23:26:17,Harsh Acceleration,Fatheiy Ahmed,Night Shift,4,13.069840,32.928378
+13,1696,10/04/2022,23:26:17,Harsh Acceleration,Fatheiy Ahmed,Night Shift,4,13.069840,32.928378
+14,1683,10/04/2022,23:43:53,Harsh Acceleration,Mohmed Elsadig,Night Shift,15,13.134507,32.996783
+15,1683,10/04/2022,23:44:07,Harsh Acceleration,Mohmed Elsadig,Night Shift,16,13.134112,32.998333
+16,1696,11/04/2022,00:03:00,Harsh Acceleration,Fatheiy Ahmed,Night Shift,6,13.043490,33.054328
+17,1696,11/04/2022,00:03:00,Harsh Acceleration,Fatheiy Ahmed,Night Shift,6,13.043490,33.054328
+18,1683,11/04/2022,23:45:07,Harsh Acceleration,Mohmed Elsadig,Night Shift,15,13.178583,32.968732
+19,1696,12/04/2022,00:21:17,Harsh Acceleration,Fatheiy Ahmed,Night Shift,8,13.174277,32.962987
+20,1696,12/04/2022,00:56:53,Harsh Acceleration,Fatheiy Ahmed,Night Shift,7,13.170172,32.954730
+21,1696,12/04/2022,00:57:09,Harsh Acceleration,Fatheiy Ahmed,Night Shift,5,13.169922,32.954747
+22,1696,12/04/2022,00:57:09,Harsh Acceleration,Fatheiy Ahmed,Night Shift,5,13.169922,32.954747
+23,1696,12/04/2022,02:14:56,Harsh Acceleration,Fatheiy Ahmed,Night Shift,4,13.142203,32.978078
+24,1696,12/04/2022,02:15:39,Harsh Acceleration,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+25,1696,12/04/2022,02:15:39,Harsh Acceleration,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+26,1696,12/04/2022,02:15:39,Harsh Acceleration,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+27,1696,12/04/2022,02:15:39,Harsh Acceleration,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+28,1696,12/04/2022,02:16:22,Harsh Acceleration,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+29,1696,12/04/2022,02:16:22,Harsh Acceleration,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+30,1696,12/04/2022,02:16:22,Harsh Acceleration,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+31,1696,12/04/2022,02:16:22,Harsh Acceleration,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+32,1683,13/04/2022,03:34:44,Harsh Acceleration,Mohmed Elsadig,Night Shift,15,13.135652,33.041042
+33,1691,13/04/2022,04:02:29,Harsh Acceleration,Salah Ahmed,Night Shift,15,13.113447,32.968910
+34,1691,13/04/2022,04:02:29,Harsh Acceleration,Salah Ahmed,Night Shift,15,13.113447,32.968910
+35,1683,14/04/2022,03:37:14,Harsh Acceleration,Mohmed Elsadig,Night Shift,16,13.063288,33.003258
+36,1687,15/04/2022,02:07:07,Harsh Acceleration,Mohmmed Abd Alkarim,Night Shift,15,13.117555,32.936490
+37,1687,15/04/2022,02:07:07,Harsh Acceleration,Mohmmed Abd Alkarim,Night Shift,15,13.117555,32.936490
+38,1687,15/04/2022,02:22:15,Harsh Acceleration,Mohmmed Abd Alkarim,Night Shift,16,13.207302,32.980705
+39,1687,15/04/2022,02:22:15,Harsh Acceleration,Mohmmed Abd Alkarim,Night Shift,16,13.207302,32.980705
+40,1687,15/04/2022,02:22:16,Harsh Acceleration,Mohmmed Abd Alkarim,Night Shift,16,13.207367,32.980853
+41,1687,15/04/2022,02:22:16,Harsh Acceleration,Mohmmed Abd Alkarim,Night Shift,16,13.207367,32.980853
+42,1696,08/04/2022,22:40:04,Harsh Acceleration,Fatheiy Ahmed,Night Shift,4,13.148797,33.061553
+43,1696,08/04/2022,22:40:04,Harsh Acceleration,Fatheiy Ahmed,Night Shift,4,13.148797,33.061553
+44,1696,08/04/2022,22:40:05,Harsh Acceleration,Fatheiy Ahmed,Night Shift,4,13.148840,33.061667
+45,1696,08/04/2022,22:40:05,Harsh Acceleration,Fatheiy Ahmed,Night Shift,4,13.148840,33.061667
+46,1696,16/04/2022,00:20:25,Harsh Acceleration,Yosri Mohammed,Night Shift,4,13.101083,32.947583
+47,1696,16/04/2022,00:20:25,Harsh Acceleration,Yosri Mohammed,Night Shift,4,13.101083,32.947583
+48,1696,16/04/2022,23:38:13,Harsh Acceleration,Yosri Mohammed,Night Shift,7,13.079303,32.931418
+49,1696,16/04/2022,23:38:13,Harsh Acceleration,Yosri Mohammed,Night Shift,7,13.079303,32.931418
+50,1694,17/04/2022,01:53:10,Harsh Acceleration,Ibrahim Abaker,Night Shift,13,13.127815,33.019377
+51,1694,17/04/2022,01:53:10,Harsh Acceleration,Ibrahim Abaker,Night Shift,13,13.127815,33.019377
+52,1683,19/04/2022,22:14:13,Harsh Acceleration,Elmahi Hussain,Night Shift,18,13.163755,33.014425
+53,1683,19/04/2022,22:14:46,Harsh Acceleration,Elmahi Hussain,Night Shift,17,13.166060,33.015985
+54,1683,19/04/2022,22:15:03,Harsh Acceleration,Elmahi Hussain,Night Shift,18,13.167828,33.017347
+55,1683,20/04/2022,00:19:24,Harsh Acceleration,Elmahi Hussain,Night Shift,19,13.166305,33.016167
+56,1683,20/04/2022,02:21:15,Harsh Acceleration,Elmahi Hussain,Night Shift,16,13.090618,32.940673
+57,1696,20/04/2022,04:08:07,Harsh Acceleration,Yosri Mohammed,Night Shift,4,13.089757,32.941000
+58,1696,20/04/2022,04:08:07,Harsh Acceleration,Yosri Mohammed,Night Shift,4,13.089757,32.941000
+59,1696,20/04/2022,23:12:44,Harsh Acceleration,Yosri Mohammed,Night Shift,7,13.151040,33.004257
+60,1696,20/04/2022,23:13:06,Harsh Acceleration,Yosri Mohammed,Night Shift,6,13.150522,33.002890
+61,1696,20/04/2022,23:13:06,Harsh Acceleration,Yosri Mohammed,Night Shift,6,13.150522,33.002890
+62,1694,05/04/2022,02:08:07,Harsh Braking,Musa M Edris,Night Shift,16,13.088343,32.940220
+63,1694,05/04/2022,02:08:07,Harsh Braking,Musa M Edris,Night Shift,16,13.088343,32.940220
+64,1696,05/04/2022,23:16:31,Harsh Braking,Fatheiy Ahmed,Night Shift,7,13.125188,33.119825
+65,1696,05/04/2022,23:20:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.140503,33.113867
+66,1696,05/04/2022,23:45:10,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113617,32.970392
+67,1696,05/04/2022,23:45:10,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113617,32.970392
+68,1696,05/04/2022,23:45:10,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113617,32.970392
+69,1696,05/04/2022,23:45:10,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113617,32.970392
+70,1696,05/04/2022,23:45:11,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113633,32.970378
+71,1696,05/04/2022,23:45:11,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113633,32.970378
+72,1696,05/04/2022,23:45:11,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113633,32.970378
+73,1696,05/04/2022,23:45:11,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.113633,32.970378
+74,1687,05/04/2022,03:45:11,Harsh Braking,Alfadil Hassan,Night Shift,14,13.139020,33.093782
+75,1687,05/04/2022,03:45:20,Harsh Braking,Alfadil Hassan,Night Shift,14,13.138973,33.093008
+76,1687,05/04/2022,03:45:20,Harsh Braking,Alfadil Hassan,Night Shift,14,13.138973,33.093008
+77,1687,05/04/2022,03:45:21,Harsh Braking,Alfadil Hassan,Night Shift,14,13.138972,33.092917
+78,1687,05/04/2022,03:45:21,Harsh Braking,Alfadil Hassan,Night Shift,14,13.138972,33.092917
+79,1687,05/04/2022,05:55:55,Harsh Braking,Alfadil Hassan,Night Shift,17,13.141598,32.976928
+80,1687,05/04/2022,05:56:06,Harsh Braking,Alfadil Hassan,Night Shift,17,13.141603,32.977970
+81,1687,05/04/2022,05:56:06,Harsh Braking,Alfadil Hassan,Night Shift,17,13.141603,32.977970
+82,1687,06/04/2022,05:48:35,Harsh Braking,Alfadil Hassan,Night Shift,16,13.166922,33.024097
+83,1687,06/04/2022,05:49:20,Harsh Braking,Alfadil Hassan,Night Shift,16,13.170940,33.028080
+84,1687,06/04/2022,05:49:20,Harsh Braking,Alfadil Hassan,Night Shift,16,13.170940,33.028080
+85,1687,06/04/2022,05:49:21,Harsh Braking,Alfadil Hassan,Night Shift,16,13.171025,33.028157
+86,1687,06/04/2022,05:49:21,Harsh Braking,Alfadil Hassan,Night Shift,16,13.171025,33.028157
+87,1687,06/04/2022,05:52:21,Harsh Braking,Alfadil Hassan,Night Shift,16,13.173015,33.048197
+88,1696,06/04/2022,05:52:53,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141660,32.977263
+89,1696,06/04/2022,05:53:27,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.141725,32.974088
+90,1696,06/04/2022,05:53:27,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.141725,32.974088
+91,1696,06/04/2022,05:57:07,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.118097,32.959153
+92,1696,06/04/2022,05:57:07,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.118097,32.959153
+93,1696,06/04/2022,05:57:19,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.116445,32.959172
+94,1696,06/04/2022,05:57:19,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.116445,32.959172
+95,1696,09/04/2022,01:33:10,Harsh Braking,Fatheiy Ahmed,Night Shift,11,13.119907,33.042597
+96,1696,09/04/2022,01:50:24,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.093160,32.941383
+97,1696,09/04/2022,01:50:24,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.093160,32.941383
+98,1696,10/04/2022,05:36:10,Harsh Braking,Fatheiy Ahmed,Night Shift,14,13.082845,32.937095
+99,1696,10/04/2022,05:36:10,Harsh Braking,Fatheiy Ahmed,Night Shift,14,13.082845,32.937095
+100,1696,10/04/2022,05:38:19,Harsh Braking,Fatheiy Ahmed,Night Shift,13,13.100055,32.941393
+101,1696,10/04/2022,05:38:19,Harsh Braking,Fatheiy Ahmed,Night Shift,13,13.100055,32.941393
+102,1696,10/04/2022,05:41:17,Harsh Braking,Fatheiy Ahmed,Night Shift,12,13.119042,32.965133
+103,1696,10/04/2022,05:41:17,Harsh Braking,Fatheiy Ahmed,Night Shift,12,13.119042,32.965133
+104,1694,11/04/2022,02:06:27,Harsh Braking,Musa M Edris,Night Shift,16,13.170755,32.951742
+105,1694,11/04/2022,02:14:28,Harsh Braking,Musa M Edris,Night Shift,15,13.211118,32.989610
+106,1694,11/04/2022,02:14:28,Harsh Braking,Musa M Edris,Night Shift,15,13.211118,32.989610
+107,1691,11/04/2022,03:16:27,Harsh Braking,Salah Ahmed,Night Shift,12,13.076100,32.932712
+108,1691,11/04/2022,03:16:27,Harsh Braking,Salah Ahmed,Night Shift,12,13.076100,32.932712
+109,1696,11/04/2022,02:19:27,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.024898,33.046590
+110,1696,11/04/2022,02:19:27,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.024898,33.046590
+111,1696,11/04/2022,02:22:04,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.026435,33.046870
+112,1696,11/04/2022,02:22:04,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.026435,33.046870
+113,1696,11/04/2022,05:11:19,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.024283,32.973410
+114,1696,11/04/2022,05:11:19,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.024283,32.973410
+115,1696,11/04/2022,22:52:11,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.077335,32.931877
+116,1696,11/04/2022,22:52:11,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.077335,32.931877
+117,1696,11/04/2022,23:15:13,Harsh Braking,Fatheiy Ahmed,Night Shift,9,13.180907,32.963582
+118,1683,11/04/2022,05:10:04,Harsh Braking,Mohmed Elsadig,Night Shift,17,13.128570,32.978052
+119,1683,11/04/2022,05:10:14,Harsh Braking,Mohmed Elsadig,Night Shift,17,13.129317,32.977153
+120,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+121,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+122,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+123,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+124,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+125,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+126,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+127,1696,12/04/2022,02:15:39,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.141715,32.976700
+128,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+129,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+130,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+131,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+132,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+133,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+134,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+135,1696,12/04/2022,02:16:22,Harsh Braking,Fatheiy Ahmed,Night Shift,6,13.141408,32.972305
+136,1696,12/04/2022,02:28:13,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.084697,32.938923
+137,1696,12/04/2022,02:28:13,Harsh Braking,Fatheiy Ahmed,Night Shift,5,13.084697,32.938923
+138,1690,12/04/2022,05:36:02,Harsh Braking,Alhilo A Alhilo,Night Shift,15,13.122777,32.960573
+139,1690,12/04/2022,05:36:02,Harsh Braking,Alhilo A Alhilo,Night Shift,15,13.122777,32.960573
+140,1683,13/04/2022,03:27:06,Harsh Braking,Mohmed Elsadig,Night Shift,15,13.129157,32.976693
+141,1683,13/04/2022,03:34:44,Harsh Braking,Mohmed Elsadig,Night Shift,15,13.135652,33.041042
+142,1683,13/04/2022,22:08:18,Harsh Braking,Mohmed Elsadig,Night Shift,17,13.082590,32.930563
+143,1687,14/04/2022,04:36:51,Harsh Braking,Alfadil Hassan,Night Shift,16,13.142163,32.982937
+144,1687,14/04/2022,04:37:23,Harsh Braking,Alfadil Hassan,Night Shift,16,13.142477,32.979145
+145,1687,14/04/2022,04:37:23,Harsh Braking,Alfadil Hassan,Night Shift,16,13.142477,32.979145
+146,1687,15/04/2022,02:07:05,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,15,13.117283,32.936573
+147,1687,15/04/2022,02:07:05,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,15,13.117283,32.936573
+148,1687,15/04/2022,02:22:15,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,16,13.207302,32.980705
+149,1687,15/04/2022,02:22:15,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,16,13.207302,32.980705
+150,1687,15/04/2022,02:22:16,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,16,13.207367,32.980853
+151,1687,15/04/2022,02:22:16,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,16,13.207367,32.980853
+152,1696,08/04/2022,22:40:04,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.148797,33.061553
+153,1696,08/04/2022,22:40:04,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.148797,33.061553
+154,1696,08/04/2022,22:40:05,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.148840,33.061667
+155,1696,08/04/2022,22:40:05,Harsh Braking,Fatheiy Ahmed,Night Shift,4,13.148840,33.061667
+156,1694,08/04/2022,03:16:06,Harsh Braking,Musa M Edris,Night Shift,14,13.077897,32.931545
+157,1694,08/04/2022,03:16:06,Harsh Braking,Musa M Edris,Night Shift,14,13.077897,32.931545
+158,1683,08/04/2022,02:24:12,Harsh Braking,Mohmed Elsadig,Night Shift,13,13.122590,32.921203
+159,1683,16/04/2022,22:46:13,Harsh Braking,Elmahi Hussain,Night Shift,15,13.080342,32.931057
+160,1696,16/04/2022,01:14:03,Harsh Braking,Yosri Mohammed,Night Shift,5,13.096767,32.952195
+161,1696,16/04/2022,01:14:03,Harsh Braking,Yosri Mohammed,Night Shift,5,13.096767,32.952195
+162,1696,16/04/2022,01:25:00,Harsh Braking,Yosri Mohammed,Night Shift,5,13.079455,32.930438
+163,1696,16/04/2022,01:25:00,Harsh Braking,Yosri Mohammed,Night Shift,5,13.079455,32.930438
+164,1696,16/04/2022,22:18:18,Harsh Braking,Yosri Mohammed,Night Shift,6,13.070797,32.933928
+165,1696,16/04/2022,22:18:18,Harsh Braking,Yosri Mohammed,Night Shift,6,13.070797,32.933928
+166,1696,16/04/2022,23:38:22,Harsh Braking,Yosri Mohammed,Night Shift,5,13.081172,32.931437
+167,1696,16/04/2022,23:38:22,Harsh Braking,Yosri Mohammed,Night Shift,5,13.081172,32.931437
+168,1696,16/04/2022,23:40:08,Harsh Braking,Yosri Mohammed,Night Shift,4,13.090640,32.940993
+169,1696,16/04/2022,23:40:08,Harsh Braking,Yosri Mohammed,Night Shift,4,13.090640,32.940993
+170,1694,17/04/2022,01:36:12,Harsh Braking,Ibrahim Abaker,Night Shift,15,13.088395,32.940225
+171,1694,17/04/2022,01:36:12,Harsh Braking,Ibrahim Abaker,Night Shift,15,13.088395,32.940225
+172,1694,17/04/2022,01:54:02,Harsh Braking,Ibrahim Abaker,Night Shift,13,13.132062,33.027623
+173,1694,17/04/2022,01:57:44,Harsh Braking,Ibrahim Abaker,Night Shift,14,13.140122,33.047525
+174,1694,17/04/2022,22:42:24,Harsh Braking,Ibrahim Abaker,Night Shift,16,13.085398,32.939453
+175,1694,17/04/2022,22:42:24,Harsh Braking,Ibrahim Abaker,Night Shift,16,13.085398,32.939453
+176,1683,20/04/2022,04:37:39,Harsh Braking,Elmahi Hussain,Night Shift,17,13.163672,33.014270
+177,1696,20/04/2022,00:20:08,Harsh Braking,Yosri Mohammed,Night Shift,19,13.192308,33.077915
+178,1696,20/04/2022,00:20:08,Harsh Braking,Yosri Mohammed,Night Shift,19,13.192308,33.077915
+179,1696,20/04/2022,04:08:10,Harsh Braking,Yosri Mohammed,Night Shift,6,13.090573,32.939507
+180,1696,20/04/2022,04:08:10,Harsh Braking,Yosri Mohammed,Night Shift,6,13.090573,32.939507
+181,1696,20/04/2022,23:00:06,Harsh Braking,Yosri Mohammed,Night Shift,6,13.169497,33.018607
+182,1696,20/04/2022,23:00:10,Harsh Braking,Yosri Mohammed,Night Shift,4,13.169343,33.018528
+183,1696,20/04/2022,23:00:10,Harsh Braking,Yosri Mohammed,Night Shift,4,13.169343,33.018528
+184,1691,20/04/2022,00:59:11,Harsh Braking,Musa Mudawi,Night Shift,18,13.155095,33.010007
+185,1691,20/04/2022,00:59:23,Harsh Braking,Musa Mudawi,Night Shift,17,13.156143,33.011035
+186,1691,20/04/2022,00:59:23,Harsh Braking,Musa Mudawi,Night Shift,17,13.156143,33.011035
+187,1687,21/04/2022,00:37:26,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,20,13.100503,32.945670
+188,1687,21/04/2022,00:37:26,Harsh Braking,Mohmmed Abd Alkarim,Night Shift,20,13.100503,32.945670
+189,1696,21/04/2022,05:48:37,Harsh Braking,Yosri Mohammed,Night Shift,17,13.141132,32.980988
+190,1696,05/04/2022,22:07:24,Harsh Cornering,Fatheiy Ahmed,Night Shift,5,13.083948,33.125602
+191,1696,05/04/2022,22:07:24,Harsh Cornering,Fatheiy Ahmed,Night Shift,5,13.083948,33.125602
+192,1687,05/04/2022,03:37:48,Harsh Cornering,Alfadil Hassan,Night Shift,15,13.129613,33.120027
+193,1687,05/04/2022,03:37:56,Harsh Cornering,Alfadil Hassan,Night Shift,15,13.130512,33.120035
+194,1687,05/04/2022,03:37:56,Harsh Cornering,Alfadil Hassan,Night Shift,15,13.130512,33.120035
+195,1687,05/04/2022,03:38:09,Harsh Cornering,Alfadil Hassan,Night Shift,15,13.131973,33.120128
+196,1687,05/04/2022,03:38:09,Harsh Cornering,Alfadil Hassan,Night Shift,15,13.131973,33.120128
+197,1687,05/04/2022,03:45:11,Harsh Cornering,Alfadil Hassan,Night Shift,14,13.139020,33.093782
+198,1687,05/04/2022,03:45:20,Harsh Cornering,Alfadil Hassan,Night Shift,14,13.138973,33.093008
+199,1687,05/04/2022,03:45:20,Harsh Cornering,Alfadil Hassan,Night Shift,14,13.138973,33.093008
+200,1687,05/04/2022,03:45:21,Harsh Cornering,Alfadil Hassan,Night Shift,14,13.138972,33.092917
+201,1687,05/04/2022,03:45:21,Harsh Cornering,Alfadil Hassan,Night Shift,14,13.138972,33.092917
+202,1687,05/04/2022,03:52:22,Harsh Cornering,Alfadil Hassan,Night Shift,14,13.125040,33.051860
+203,1687,07/04/2022,04:48:43,Harsh Cornering,Alfadil Hassan,Night Shift,13,13.155815,33.009620
+204,1687,10/04/2022,23:18:18,Harsh Cornering,Alfadil Hassan,Night Shift,18,13.089482,32.974558
+205,1687,10/04/2022,23:18:18,Harsh Cornering,Alfadil Hassan,Night Shift,18,13.089482,32.974558
+206,1683,10/04/2022,23:34:09,Harsh Cornering,Mohmed Elsadig,Night Shift,13,13.100295,32.943372
+207,1683,10/04/2022,23:41:11,Harsh Cornering,Mohmed Elsadig,Night Shift,15,13.128052,32.980513
+208,1694,11/04/2022,02:08:16,Harsh Cornering,Musa M Edris,Night Shift,16,13.181043,32.959267
+209,1694,11/04/2022,02:08:16,Harsh Cornering,Musa M Edris,Night Shift,16,13.181043,32.959267
+210,1696,11/04/2022,02:22:03,Harsh Cornering,Fatheiy Ahmed,Night Shift,5,13.026583,33.046955
+211,1696,11/04/2022,02:22:03,Harsh Cornering,Fatheiy Ahmed,Night Shift,5,13.026583,33.046955
+212,1696,12/04/2022,02:26:07,Harsh Cornering,Fatheiy Ahmed,Night Shift,4,13.094883,32.941428
+213,1696,12/04/2022,02:26:07,Harsh Cornering,Fatheiy Ahmed,Night Shift,4,13.094883,32.941428
+214,1687,13/04/2022,05:33:23,Harsh Cornering,Alfadil Hassan,Night Shift,16,13.078323,32.931238
+215,1687,13/04/2022,05:33:23,Harsh Cornering,Alfadil Hassan,Night Shift,16,13.078323,32.931238
+216,1683,13/04/2022,22:24:11,Harsh Cornering,Mohmed Elsadig,Night Shift,17,13.158030,32.947840
+217,1683,13/04/2022,22:24:28,Harsh Cornering,Mohmed Elsadig,Night Shift,17,13.158503,32.946417
+218,1694,08/04/2022,05:56:47,Harsh Cornering,Musa M Edris,Night Shift,14,13.153572,33.071578
+219,1694,08/04/2022,05:57:09,Harsh Cornering,Musa M Edris,Night Shift,15,13.153748,33.073940
+220,1694,08/04/2022,05:57:09,Harsh Cornering,Musa M Edris,Night Shift,15,13.153748,33.073940
+221,1692,16/04/2022,02:58:24,Harsh Cornering,Osama Ahmed,Night Shift,13,13.078730,32.931110
+222,1696,16/04/2022,00:12:16,Harsh Cornering,Yosri Mohammed,Night Shift,5,13.073180,32.933982
+223,1696,16/04/2022,00:12:16,Harsh Cornering,Yosri Mohammed,Night Shift,5,13.073180,32.933982
+224,1687,19/04/2022,01:40:25,Harsh Cornering,Mohmmed Abd Alkarim,Night Shift,16,13.081865,32.931147
+225,1687,19/04/2022,01:40:25,Harsh Cornering,Mohmmed Abd Alkarim,Night Shift,16,13.081865,32.931147
+226,1691,20/04/2022,00:47:05,Harsh Cornering,Musa Mudawi,Night Shift,19,13.081927,32.931230
+227,1691,20/04/2022,00:47:05,Harsh Cornering,Musa Mudawi,Night Shift,19,13.081927,32.931230
+228,1687,20/04/2022,23:57:08,Harsh Cornering,Mohmmed Abd Alkarim,Night Shift,19,13.099692,32.940975
+229,1687,20/04/2022,23:57:08,Harsh Cornering,Mohmmed Abd Alkarim,Night Shift,19,13.099692,32.940975
+230,1694,20/04/2022,05:16:02,Harsh Cornering,Ibrahim Abaker,Night Shift,15,13.075208,32.933212
+231,1694,20/04/2022,05:16:02,Harsh Cornering,Ibrahim Abaker,Night Shift,15,13.075208,32.933212
